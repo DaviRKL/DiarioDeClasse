@@ -10,10 +10,7 @@ Este projeto é um software de gestão educacional desenvolvido para a Associaç
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Arquitetura e Padrões de Projeto](#arquitetura-e-padrões-de-projeto)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ---
 
